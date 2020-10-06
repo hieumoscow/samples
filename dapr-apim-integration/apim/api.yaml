@@ -3,8 +3,8 @@ info:
   title: dapr
   version: '1.0'
 servers:
-  - url: http://dapr-apim-demo.azure-api.net
-  - url: https://dapr-apim-demo.azure-api.net
+  - url: http://hieu-dapr-apim-demo.azure-api.net
+  - url: https://hieu-dapr-apim-demo.azure-api.net
 paths:
   /echo:
     post:
